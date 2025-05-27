@@ -1,0 +1,13 @@
+//Note: 25 May 2025
+
+1 - Completed 3 APIs. SignUp , Login, DeleteAccount.
+
+//Note: 26 May 2025
+
+Did nothing.
+
+//Note: 27 May 2025
+
+1 - Setup user-posts-service
+2 - Wrote posts model in auth-service. Created one to many relationship between User & Posts.
+3 - Wrote three apis -> createPost , getPostDetails, getPostsByUserId
