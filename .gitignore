@@ -4,4 +4,4 @@ dist/
 *.log
 prisma/dev.db
 issues.txt
-notes.txt
+note.txt
