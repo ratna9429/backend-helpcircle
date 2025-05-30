@@ -11,3 +11,7 @@ Did nothing.
 1 - Setup user-posts-service
 2 - Wrote posts model in auth-service. Created one to many relationship between User & Posts.
 3 - Wrote three apis -> createPost , getPostDetails, getPostsByUserId
+
+//Note: 31 May 2025
+
+1 - Changes for Whole DB schema centrallised
